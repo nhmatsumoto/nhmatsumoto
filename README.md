@@ -2,6 +2,6 @@
 
 
 Main Languages:
-C#
+C#,
 TypeScript,
-MSSQL
+SQL
