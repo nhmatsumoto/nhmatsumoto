@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Nilton 👋
 
+👨‍💻💼 I started my journey into the coding world in 2009 at the age of 12, and since then, I've been a technology enthusiast, shaping my path in the programming universe. I love building modern solutions for contemporary problems.
 
-👨‍💻💼 Iniciei minha jornada no mundo do código em 2009 aos 12 anos e, desde então, sou um entusiasta da tecnologia, moldando meu caminho no universo da programação. Adoro construir soluções modernas para problemas contemporâneos.
+I have solid experience in backend development using .NET Core, SQL Server, and C#, and I master testing techniques, including XUnit, Mocks, and test coverage. On the frontend side, my skills encompass HTML, CSS, JavaScript, TypeScript, Node, and React.
 
-Tenho experiência sólida no desenvolvimento backend, utilizando .NET Core, SQL Server e C#, e domino técnicas de teste, incluindo XUnit, Mocks e cobertura de testes. No universo do frontend, minha bagagem inclui habilidades em HTML, CSS, JavaScript, TypeScript, Node e React.
-
-Ao longo dos anos, aprimorei minhas habilidades técnicas, buscando incessantemente entregar códigos de qualidade. Além disso, mantenho um interesse constante no ativismo ambiental, explorando soluções sustentáveis por meio de código, permacultura, agrofloresta e bioeconomia. 🌱💻 #CodingForSustainability
+Over the years, I've honed my technical skills, relentlessly striving to deliver quality code. Additionally, I maintain a constant interest in environmental activism, exploring sustainable solutions through coding, permaculture, agroforestry, and bioeconomy. 🌱💻 #CodingForSustainability
