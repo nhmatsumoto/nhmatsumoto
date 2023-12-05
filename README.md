@@ -7,3 +7,5 @@ I have solid experience in backend development using .NET Core, SQL Server, and 
 Over the years, I've honed my technical skills, relentlessly striving to deliver quality code. Additionally, I maintain a constant interest in environmental activism, exploring sustainable solutions through coding, permaculture, agroforestry, and bioeconomy. 🌱💻 #CodingForSustainability
 
 I also thoroughly enjoy teamwork, easily integrating into corporate environments, and I never like to stay idle. I am proactive! 🚀
+
+[(https://www.16personalities.com/br/resultados/enfj-a/x/pswwtjxe)]
