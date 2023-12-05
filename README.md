@@ -1,6 +1,6 @@
 ### Hi there, my name is Nilton 👋
 
-👨‍💻💼 I started my journey into the coding world in 2009 at the age of 12, and since then, I've been a technology enthusiast, shaping my path in the programming universe. I love building modern solutions for contemporary problems.
+👨‍💻💼 I started my journey into the coding world in 2009 at the age of 13, and since then, I've been a technology enthusiast, shaping my path in the programming universe. I love building modern solutions for contemporary problems.
 
 I have solid experience in backend development using .NET Core, SQL Server, and C#, and I master testing techniques, including XUnit, Mocks, and test coverage. On the frontend side, my skills encompass HTML, CSS, JavaScript, TypeScript, Node, and React.
 
