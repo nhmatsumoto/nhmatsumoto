@@ -10,4 +10,3 @@ I also thoroughly enjoy teamwork, easily integrating into corporate environments
 
 [Personality: ENFJ-A](https://www.16personalities.com/br/resultados/enfj-a/x/pswwtjxe)
 
-![Personality: ENFJ-A](./images/Teste.png)
